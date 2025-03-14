@@ -1,0 +1,12 @@
+/Users/mac/Desktop/DotNetProjects/Bulky.Utility/bin/Debug/net8.0/Bulky.Utility.deps.json
+/Users/mac/Desktop/DotNetProjects/Bulky.Utility/bin/Debug/net8.0/Bulky.Utility.dll
+/Users/mac/Desktop/DotNetProjects/Bulky.Utility/bin/Debug/net8.0/Bulky.Utility.pdb
+/Users/mac/Desktop/DotNetProjects/Bulky.Utility/obj/Debug/net8.0/Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/DotNetProjects/Bulky.Utility/obj/Debug/net8.0/Bulky.Utility.AssemblyInfoInputs.cache
+/Users/mac/Desktop/DotNetProjects/Bulky.Utility/obj/Debug/net8.0/Bulky.Utility.AssemblyInfo.cs
+/Users/mac/Desktop/DotNetProjects/Bulky.Utility/obj/Debug/net8.0/Bulky.Utility.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/DotNetProjects/Bulky.Utility/obj/Debug/net8.0/Bulky.Utility.sourcelink.json
+/Users/mac/Desktop/DotNetProjects/Bulky.Utility/obj/Debug/net8.0/Bulky.Utility.dll
+/Users/mac/Desktop/DotNetProjects/Bulky.Utility/obj/Debug/net8.0/refint/Bulky.Utility.dll
+/Users/mac/Desktop/DotNetProjects/Bulky.Utility/obj/Debug/net8.0/Bulky.Utility.pdb
+/Users/mac/Desktop/DotNetProjects/Bulky.Utility/obj/Debug/net8.0/ref/Bulky.Utility.dll

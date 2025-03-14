@@ -109,3 +109,9 @@
 /Users/mac/Desktop/DotNetProjects/bulkyApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/mac/Desktop/DotNetProjects/bulkyApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/mac/Desktop/DotNetProjects/bulkyApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mac/Desktop/DotNetProjects/bulkyApp/bin/Debug/net8.0/Bulky.DataAccess.dll
+/Users/mac/Desktop/DotNetProjects/bulkyApp/bin/Debug/net8.0/Bulky.Models.dll
+/Users/mac/Desktop/DotNetProjects/bulkyApp/bin/Debug/net8.0/Bulky.Utility.dll
+/Users/mac/Desktop/DotNetProjects/bulkyApp/bin/Debug/net8.0/Bulky.Models.pdb
+/Users/mac/Desktop/DotNetProjects/bulkyApp/bin/Debug/net8.0/Bulky.Utility.pdb
+/Users/mac/Desktop/DotNetProjects/bulkyApp/bin/Debug/net8.0/Bulky.DataAccess.pdb
